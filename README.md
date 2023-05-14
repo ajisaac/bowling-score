@@ -1,5 +1,5 @@
 Instructions:
-run with `java -jar bowling-score-1.0-SNAPSHOT.jar` from root folder.
+Requires JDK 20. Run with `java -jar bowling-score-1.0-SNAPSHOT.jar` from root folder.
 
 Some notes:
 - I could've just skipped all the validations, object oriented code, test, etc, but this is how I code.
